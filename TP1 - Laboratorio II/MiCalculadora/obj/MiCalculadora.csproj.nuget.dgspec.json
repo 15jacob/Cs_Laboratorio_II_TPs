@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Llezer\\source\\repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\MiCalculadora\\MiCalculadora.csproj": {}
+    "C:\\Users\\Llezer\\Source\\Repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\MiCalculadora\\MiCalculadora.csproj": {}
   },
   "projects": {
     "C:\\Users\\Llezer\\Source\\Repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\Entidades\\Entidades.csproj": {
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Llezer\\source\\repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\MiCalculadora\\MiCalculadora.csproj": {
+    "C:\\Users\\Llezer\\Source\\Repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\MiCalculadora\\MiCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Llezer\\source\\repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\MiCalculadora\\MiCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\Llezer\\Source\\Repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\MiCalculadora\\MiCalculadora.csproj",
         "projectName": "MiCalculadora",
-        "projectPath": "C:\\Users\\Llezer\\source\\repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\MiCalculadora\\MiCalculadora.csproj",
+        "projectPath": "C:\\Users\\Llezer\\Source\\Repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\MiCalculadora\\MiCalculadora.csproj",
         "packagesPath": "C:\\Users\\Llezer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Llezer\\source\\repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\MiCalculadora\\obj\\",
+        "outputPath": "C:\\Users\\Llezer\\Source\\Repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\MiCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Llezer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Llezer\\source\\repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Llezer\\source\\repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Llezer\\Source\\Repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Llezer\\Source\\Repos\\tp_laboratorio_2\\TP1 - Laboratorio II\\Entidades\\Entidades.csproj"
               }
             }
           }
